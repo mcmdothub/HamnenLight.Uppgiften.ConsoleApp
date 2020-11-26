@@ -1,0 +1,13 @@
+C:\Users\mcm\Documents\ITHS - Clean Code\GIT - Published\HamnenLight.Uppgiften.ConsoleApp\HamnenLight.Uppgiften.ConsoleApp\bin\Debug\netcoreapp3.1\HamnenLight.Uppgiften.ConsoleApp.exe
+C:\Users\mcm\Documents\ITHS - Clean Code\GIT - Published\HamnenLight.Uppgiften.ConsoleApp\HamnenLight.Uppgiften.ConsoleApp\bin\Debug\netcoreapp3.1\HamnenLight.Uppgiften.ConsoleApp.deps.json
+C:\Users\mcm\Documents\ITHS - Clean Code\GIT - Published\HamnenLight.Uppgiften.ConsoleApp\HamnenLight.Uppgiften.ConsoleApp\bin\Debug\netcoreapp3.1\HamnenLight.Uppgiften.ConsoleApp.runtimeconfig.json
+C:\Users\mcm\Documents\ITHS - Clean Code\GIT - Published\HamnenLight.Uppgiften.ConsoleApp\HamnenLight.Uppgiften.ConsoleApp\bin\Debug\netcoreapp3.1\HamnenLight.Uppgiften.ConsoleApp.runtimeconfig.dev.json
+C:\Users\mcm\Documents\ITHS - Clean Code\GIT - Published\HamnenLight.Uppgiften.ConsoleApp\HamnenLight.Uppgiften.ConsoleApp\bin\Debug\netcoreapp3.1\HamnenLight.Uppgiften.ConsoleApp.dll
+C:\Users\mcm\Documents\ITHS - Clean Code\GIT - Published\HamnenLight.Uppgiften.ConsoleApp\HamnenLight.Uppgiften.ConsoleApp\bin\Debug\netcoreapp3.1\HamnenLight.Uppgiften.ConsoleApp.pdb
+C:\Users\mcm\Documents\ITHS - Clean Code\GIT - Published\HamnenLight.Uppgiften.ConsoleApp\HamnenLight.Uppgiften.ConsoleApp\obj\Debug\netcoreapp3.1\HamnenLight.Uppgiften.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\mcm\Documents\ITHS - Clean Code\GIT - Published\HamnenLight.Uppgiften.ConsoleApp\HamnenLight.Uppgiften.ConsoleApp\obj\Debug\netcoreapp3.1\HamnenLight.Uppgiften.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mcm\Documents\ITHS - Clean Code\GIT - Published\HamnenLight.Uppgiften.ConsoleApp\HamnenLight.Uppgiften.ConsoleApp\obj\Debug\netcoreapp3.1\HamnenLight.Uppgiften.ConsoleApp.AssemblyInfo.cs
+C:\Users\mcm\Documents\ITHS - Clean Code\GIT - Published\HamnenLight.Uppgiften.ConsoleApp\HamnenLight.Uppgiften.ConsoleApp\obj\Debug\netcoreapp3.1\HamnenLight.Uppgiften.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mcm\Documents\ITHS - Clean Code\GIT - Published\HamnenLight.Uppgiften.ConsoleApp\HamnenLight.Uppgiften.ConsoleApp\obj\Debug\netcoreapp3.1\HamnenLight.Uppgiften.ConsoleApp.dll
+C:\Users\mcm\Documents\ITHS - Clean Code\GIT - Published\HamnenLight.Uppgiften.ConsoleApp\HamnenLight.Uppgiften.ConsoleApp\obj\Debug\netcoreapp3.1\HamnenLight.Uppgiften.ConsoleApp.pdb
+C:\Users\mcm\Documents\ITHS - Clean Code\GIT - Published\HamnenLight.Uppgiften.ConsoleApp\HamnenLight.Uppgiften.ConsoleApp\obj\Debug\netcoreapp3.1\HamnenLight.Uppgiften.ConsoleApp.genruntimeconfig.cache

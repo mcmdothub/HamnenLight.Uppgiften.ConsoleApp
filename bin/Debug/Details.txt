@@ -1,0 +1,64 @@
+ Today's day 30
+
+ Boat S-SCG type SegelBåt have arrived.
+ Boat L-YFW type Lastfartyg have arrived.
+ Boat R-XWU type RoddBåt  have arrived.
+ Boat R-XWU type RoddBåt  have arrived.
+ Boat M-IPV type Motorbåt have arrived.
+ Boat M-AZU type Motorbåt have arrived.
+ Boats arriving today:
+
+Plats	Båttyp		Nummer	Vikt	Maxhastighet		Unik
+
+1-4.	Lastfartyg	L-YXO	16978	17 km/h		Containers totalt på fartyget: 29 
+5-8.	Lastfartyg	L-TLV	6965	4 km/h		Containers totalt på fartyget: 103 
+9-12.	Lastfartyg	L-LII	15734	17 km/h		Containers totalt på fartyget: 148 
+13-16.	Lastfartyg	L-LWY	10222	35 km/h		Containers totalt på fartyget: 355 
+17-20.	Lastfartyg	L-NEC	17720	19 km/h		Containers totalt på fartyget: 284 
+21.	Motorbåt	M-GRC	1285	28 km/h		Antal hästkrafter: 615 
+22-23.	SegelBåt	S-ZJU	2744	7 km/h		Båtens längd: 28  
+24.	Motorbåt	M-NDI	2716	17 km/h		Antal hästkrafter: 331 
+25-28.	Lastfartyg	L-CWI	7482	4 km/h		Containers totalt på fartyget: 391 
+29.	Motorbåt	M-GNW	1484	46 km/h		Antal hästkrafter: 786 
+30-31.	SegelBåt	S-IJN	1015	11 km/h		Båtens längd: 25  
+32.	RoddBåt 	R-YWT	104	6 km/h		Maximal antal passangerare: 2 
+32,5.	Motorbåt	M-NSX	1811	52 km/h		Antal hästkrafter: 10 
+33,5-36,5.	Lastfartyg	L-AZI	19392	24 km/h		Containers totalt på fartyget: 233 
+37,5-38,5.	SegelBåt	S-IMH	1646	13 km/h		Båtens längd: 13  
+39,5-40,5.	SegelBåt	S-SCG	3583	0 km/h		Båtens längd: 20  
+41,5-44,5.	Lastfartyg	L-YFW	14971	24 km/h		Containers totalt på fartyget: 106 
+45,5.	RoddBåt 	R-XWU	143	4 km/h		Maximal antal passangerare: 3 
+46.	RoddBåt 	R-XWU	143	4 km/h		Maximal antal passangerare: 3 
+46,5.	Motorbåt	M-IPV	745	80 km/h		Antal hästkrafter: 758 
+47,5.	Motorbåt	M-AZU	2484	48 km/h		Antal hästkrafter: 965 
+48,5. Tom Plats
+49,5. Tom Plats
+50,5. Tom Plats
+51,5. Tom Plats
+52,5. Tom Plats
+53,5. Tom Plats
+54,5. Tom Plats
+55,5. Tom Plats
+56,5. Tom Plats
+57,5. Tom Plats
+58,5. Tom Plats
+59,5. Tom Plats
+60,5. Tom Plats
+61,5. Tom Plats
+62,5. Tom Plats
+63,5. Tom Plats
+64,5. Tom Plats
+ The boat leaving the harbor: L-YXO
+ The boat leaving the harbor: M-GRC
+ The boat leaving the harbor: M-NDI
+ The boat leaving the harbor: M-GNW
+ The boat leaving the harbor: R-YWT
+ The boat leaving the harbor: R-XWU
+Antalet av roddbåtar: 1
+Antalet av motorbåtar: 3
+Antalet av segelbåtar: 4
+Antalet av lastfartyg: 7
+Medelhastigheten är: 24,9 km / h
+Total vikt är: 83947 kg
+
+ Boats that do not fit:
