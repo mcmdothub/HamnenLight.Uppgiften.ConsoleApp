@@ -1,35 +1,49 @@
- Today's day 12
+ Today's day 4
 
- Boat M-FJW type Motorbåt have arrived.
- Boat M-QAL type Motorbåt have arrived.
- Boat R-LMN type RoddBåt  have arrived.
- Boat R-LMN type RoddBåt  have arrived.
- Boat M-IMS type Motorbåt have arrived.
- Boat L-SLP type Lastfartyg have arrived.
+ Boat S-SZX type SegelBåt have arrived.
+ Boat R-PMG type RoddBåt  have arrived.
+ Boat R-PMG type RoddBåt  have arrived.
+ Boat R-LHF type RoddBåt  have arrived.
+ Boat R-LHF type RoddBåt  have arrived.
+ Boat S-OMX type SegelBåt have arrived.
+ Boat S-RCB type SegelBåt have arrived.
  Boats arriving today:
 
 Plats	Båttyp		Nummer	Vikt	Maxhastighet		Unik
 
-1-4.	Lastfartyg	L-ZHV	15287	7 km/h		Containers totalt på fartyget: 242 
-5-8.	Lastfartyg	L-EKL	9476	22 km/h		Containers totalt på fartyget: 228 
-9-12.	Lastfartyg	L-WJG	17087	26 km/h		Containers totalt på fartyget: 460 
-13-14.	SegelBåt	S-JPX	3644	6 km/h		Båtens längd: 42  
-15-18.	Lastfartyg	L-LII	7281	4 km/h		Containers totalt på fartyget: 491 
-19-22.	Lastfartyg	L-JXW	19983	31 km/h		Containers totalt på fartyget: 380 
-23-26.	Lastfartyg	L-AZU	8046	20 km/h		Containers totalt på fartyget: 17 
-27.	Motorbåt	M-BAJ	2370	91 km/h		Antal hästkrafter: 570 
-28-31.	Lastfartyg	L-DHH	19774	26 km/h		Containers totalt på fartyget: 252 
-32-33.	SegelBåt	S-NHT	3527	15 km/h		Båtens längd: 38  
-34-35.	SegelBåt	S-QPQ	4871	6 km/h		Båtens längd: 30  
-36-37.	SegelBåt	S-GAY	3393	7 km/h		Båtens längd: 44  
-38-41.	Lastfartyg	L-LYN	17945	24 km/h		Containers totalt på fartyget: 60 
-42-43.	SegelBåt	S-XTJ	5591	9 km/h		Båtens längd: 35  
-44.	RoddBåt 	R-KUM	181	4 km/h		Maximal antal passangerare: 3 
-44,5.	Motorbåt	M-FJW	2011	65 km/h		Antal hästkrafter: 243 
-45,5.	Motorbåt	M-QAL	2879	13 km/h		Antal hästkrafter: 638 
-46,5.	RoddBåt 	R-LMN	298	2 km/h		Maximal antal passangerare: 3 
-47.	RoddBåt 	R-LMN	298	2 km/h		Maximal antal passangerare: 3 
-47,5.	Motorbåt	M-IMS	1036	19 km/h		Antal hästkrafter: 719 
+1-4.	Lastfartyg	L-LDI	13958	33 km/h		Containers totalt på fartyget: 13 
+5-6.	SegelBåt	S-RME	3967	6 km/h		Båtens längd: 14  
+7-8.	SegelBåt	S-PBS	2150	0 km/h		Båtens längd: 22  
+9-10.	SegelBåt	S-EMN	3760	17 km/h		Båtens längd: 54  
+11-14.	Lastfartyg	L-AVG	16002	33 km/h		Containers totalt på fartyget: 215 
+15-16.	SegelBåt	S-JTK	4646	11 km/h		Båtens längd: 12  
+17-20.	Lastfartyg	L-SHA	4906	31 km/h		Containers totalt på fartyget: 491 
+21.	Motorbåt	M-XOR	1296	17 km/h		Antal hästkrafter: 332 
+22.	Motorbåt	M-OAW	611	102 km/h		Antal hästkrafter: 805 
+23-24.	SegelBåt	S-OEK	995	0 km/h		Båtens längd: 19  
+25-26.	SegelBåt	S-IXY	3030	13 km/h		Båtens längd: 42  
+27.	RoddBåt 	R-EDD	156	2 km/h		Maximal antal passangerare: 4 
+27,5.	RoddBåt 	R-IUW	150	0 km/h		Maximal antal passangerare: 2 
+28.	RoddBåt 	R-ZDL	272	2 km/h		Maximal antal passangerare: 5 
+28,5-29,5.	SegelBåt	S-SZX	1156	19 km/h		Båtens längd: 35  
+30,5.	RoddBåt 	R-PMG	135	0 km/h		Maximal antal passangerare: 6 
+31.	RoddBåt 	R-PMG	135	0 km/h		Maximal antal passangerare: 6 
+31,5.	RoddBåt 	R-LHF	227	6 km/h		Maximal antal passangerare: 3 
+32.	RoddBåt 	R-LHF	227	6 km/h		Maximal antal passangerare: 3 
+32,5-33,5.	SegelBåt	S-OMX	739	17 km/h		Båtens längd: 21  
+34,5-35,5.	SegelBåt	S-RCB	5793	15 km/h		Båtens längd: 31  
+36,5. Tom Plats
+37,5. Tom Plats
+38,5. Tom Plats
+39,5. Tom Plats
+40,5. Tom Plats
+41,5. Tom Plats
+42,5. Tom Plats
+43,5. Tom Plats
+44,5. Tom Plats
+45,5. Tom Plats
+46,5. Tom Plats
+47,5. Tom Plats
 48,5. Tom Plats
 49,5. Tom Plats
 50,5. Tom Plats
@@ -47,18 +61,16 @@ Plats	Båttyp		Nummer	Vikt	Maxhastighet		Unik
 62,5. Tom Plats
 63,5. Tom Plats
 64,5. Tom Plats
- The boat leaving the harbor: L-ZHV
- The boat leaving the harbor: L-EKL
- The boat leaving the harbor: S-JPX
- The boat leaving the harbor: M-BAJ
- The boat leaving the harbor: R-KUM
- The boat leaving the harbor: R-LMN
-Antalet av roddbåtar: 1
-Antalet av motorbåtar: 3
-Antalet av segelbåtar: 4
-Antalet av lastfartyg: 6
-Medelhastigheten är: 16,9 km / h
-Total vikt är: 82466 kg
+ The boat leaving the harbor: R-EDD
+ The boat leaving the harbor: R-IUW
+ The boat leaving the harbor: R-ZDL
+ The boat leaving the harbor: R-PMG
+ The boat leaving the harbor: R-LHF
+Antalet av roddbåtar: 2
+Antalet av motorbåtar: 2
+Antalet av segelbåtar: 9
+Antalet av lastfartyg: 3
+Medelhastigheten är: 28,2 km / h
+Total vikt är: 62431 kg
 
  Boats that do not fit:
-Lastfartyg med ID nummer: L-SLP
