@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mcm\\Documents\\ITHS - Clean Code\\GIT - Published\\HamnenLight.Uppgiften.ConsoleApp\\HamnenLight.Uppgiften.ConsoleApp\\HamnenLight.Uppgiften.ConsoleApp.csproj": {}
+    "C:\\Users\\mcm\\Documents\\ITHS - Clean Code\\Trimis DANIAL\\HamnenLight.Uppgiften.ConsoleApp\\HamnenLight.Uppgiften.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mcm\\Documents\\ITHS - Clean Code\\GIT - Published\\HamnenLight.Uppgiften.ConsoleApp\\HamnenLight.Uppgiften.ConsoleApp\\HamnenLight.Uppgiften.ConsoleApp.csproj": {
+    "C:\\Users\\mcm\\Documents\\ITHS - Clean Code\\Trimis DANIAL\\HamnenLight.Uppgiften.ConsoleApp\\HamnenLight.Uppgiften.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mcm\\Documents\\ITHS - Clean Code\\GIT - Published\\HamnenLight.Uppgiften.ConsoleApp\\HamnenLight.Uppgiften.ConsoleApp\\HamnenLight.Uppgiften.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\mcm\\Documents\\ITHS - Clean Code\\Trimis DANIAL\\HamnenLight.Uppgiften.ConsoleApp\\HamnenLight.Uppgiften.ConsoleApp.csproj",
         "projectName": "HamnenLight.Uppgiften.ConsoleApp",
-        "projectPath": "C:\\Users\\mcm\\Documents\\ITHS - Clean Code\\GIT - Published\\HamnenLight.Uppgiften.ConsoleApp\\HamnenLight.Uppgiften.ConsoleApp\\HamnenLight.Uppgiften.ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\mcm\\Documents\\ITHS - Clean Code\\Trimis DANIAL\\HamnenLight.Uppgiften.ConsoleApp\\HamnenLight.Uppgiften.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\mcm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mcm\\Documents\\ITHS - Clean Code\\GIT - Published\\HamnenLight.Uppgiften.ConsoleApp\\HamnenLight.Uppgiften.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\mcm\\Documents\\ITHS - Clean Code\\Trimis DANIAL\\HamnenLight.Uppgiften.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mcm\\AppData\\Roaming\\NuGet\\NuGet.Config",
