@@ -10,7 +10,7 @@ namespace HamnenLight.Uppgiften.ConsoleApp
         static void Main(string[] args)
         {
             int dag = 1;
-            double TotalaPlatser = 50;
+            double TotalaPlatser = 25;
             double BokadeHamnPlatser = 0;
 
             //Create Port and parking areea
@@ -184,9 +184,9 @@ namespace HamnenLight.Uppgiften.ConsoleApp
                         }
                     }
 
-                    if (platsnummer < 65)
+                    if (platsnummer < 26)
                     {
-                        double tommaPlatser = 65 - platsnummer;
+                        double tommaPlatser = 26 - platsnummer;
 
                         for (int i = 0; i < tommaPlatser; i++)
                         {

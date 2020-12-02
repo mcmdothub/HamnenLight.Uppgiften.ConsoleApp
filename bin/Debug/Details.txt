@@ -1,76 +1,45 @@
  Today's day 4
 
- Boat S-SZX type SegelBåt have arrived.
- Boat R-PMG type RoddBåt  have arrived.
- Boat R-PMG type RoddBåt  have arrived.
- Boat R-LHF type RoddBåt  have arrived.
- Boat R-LHF type RoddBåt  have arrived.
- Boat S-OMX type SegelBåt have arrived.
- Boat S-RCB type SegelBåt have arrived.
+ Boat R-PDF type RoddBåt  have arrived.
+ Boat R-PDF type RoddBåt  have arrived.
+ Boat S-KMP type SegelBåt have arrived.
+ Boat L-TVK type Lastfartyg have arrived.
+ Boat M-GUK type Motorbåt have arrived.
+ Boat R-QAL type RoddBåt  have arrived.
+ Boat R-QAL type RoddBåt  have arrived.
  Boats arriving today:
 
 Plats	Båttyp		Nummer	Vikt	Maxhastighet		Unik
 
-1-4.	Lastfartyg	L-LDI	13958	33 km/h		Containers totalt på fartyget: 13 
-5-6.	SegelBåt	S-RME	3967	6 km/h		Båtens längd: 14  
-7-8.	SegelBåt	S-PBS	2150	0 km/h		Båtens längd: 22  
-9-10.	SegelBåt	S-EMN	3760	17 km/h		Båtens längd: 54  
-11-14.	Lastfartyg	L-AVG	16002	33 km/h		Containers totalt på fartyget: 215 
-15-16.	SegelBåt	S-JTK	4646	11 km/h		Båtens längd: 12  
-17-20.	Lastfartyg	L-SHA	4906	31 km/h		Containers totalt på fartyget: 491 
-21.	Motorbåt	M-XOR	1296	17 km/h		Antal hästkrafter: 332 
-22.	Motorbåt	M-OAW	611	102 km/h		Antal hästkrafter: 805 
-23-24.	SegelBåt	S-OEK	995	0 km/h		Båtens längd: 19  
-25-26.	SegelBåt	S-IXY	3030	13 km/h		Båtens längd: 42  
-27.	RoddBåt 	R-EDD	156	2 km/h		Maximal antal passangerare: 4 
-27,5.	RoddBåt 	R-IUW	150	0 km/h		Maximal antal passangerare: 2 
-28.	RoddBåt 	R-ZDL	272	2 km/h		Maximal antal passangerare: 5 
-28,5-29,5.	SegelBåt	S-SZX	1156	19 km/h		Båtens längd: 35  
-30,5.	RoddBåt 	R-PMG	135	0 km/h		Maximal antal passangerare: 6 
-31.	RoddBåt 	R-PMG	135	0 km/h		Maximal antal passangerare: 6 
-31,5.	RoddBåt 	R-LHF	227	6 km/h		Maximal antal passangerare: 3 
-32.	RoddBåt 	R-LHF	227	6 km/h		Maximal antal passangerare: 3 
-32,5-33,5.	SegelBåt	S-OMX	739	17 km/h		Båtens längd: 21  
-34,5-35,5.	SegelBåt	S-RCB	5793	15 km/h		Båtens längd: 31  
-36,5. Tom Plats
-37,5. Tom Plats
-38,5. Tom Plats
-39,5. Tom Plats
-40,5. Tom Plats
-41,5. Tom Plats
-42,5. Tom Plats
-43,5. Tom Plats
-44,5. Tom Plats
-45,5. Tom Plats
-46,5. Tom Plats
-47,5. Tom Plats
-48,5. Tom Plats
-49,5. Tom Plats
-50,5. Tom Plats
-51,5. Tom Plats
-52,5. Tom Plats
-53,5. Tom Plats
-54,5. Tom Plats
-55,5. Tom Plats
-56,5. Tom Plats
-57,5. Tom Plats
-58,5. Tom Plats
-59,5. Tom Plats
-60,5. Tom Plats
-61,5. Tom Plats
-62,5. Tom Plats
-63,5. Tom Plats
-64,5. Tom Plats
- The boat leaving the harbor: R-EDD
- The boat leaving the harbor: R-IUW
- The boat leaving the harbor: R-ZDL
- The boat leaving the harbor: R-PMG
- The boat leaving the harbor: R-LHF
-Antalet av roddbåtar: 2
-Antalet av motorbåtar: 2
-Antalet av segelbåtar: 9
-Antalet av lastfartyg: 3
-Medelhastigheten är: 28,2 km / h
-Total vikt är: 62431 kg
+1.	Motorbåt	M-MLC	2838	22 km/h		Antal hästkrafter: 945 
+2-3.	SegelBåt	S-TGK	3620	2 km/h		Båtens längd: 56  
+4.	Motorbåt	M-XSV	1207	67 km/h		Antal hästkrafter: 867 
+5-8.	Lastfartyg	L-UZD	20000	19 km/h		Containers totalt på fartyget: 194 
+9.	Motorbåt	M-YRT	935	65 km/h		Antal hästkrafter: 96 
+10-11.	SegelBåt	S-QLI	1513	4 km/h		Båtens längd: 40  
+12-13.	SegelBåt	S-XDG	624	6 km/h		Båtens längd: 47  
+14.	Motorbåt	M-HSI	677	48 km/h		Antal hästkrafter: 797 
+15.	Motorbåt	M-YIR	1792	81 km/h		Antal hästkrafter: 297 
+16.	Motorbåt	M-LEZ	2115	74 km/h		Antal hästkrafter: 233 
+17-20.	Lastfartyg	L-JID	17411	15 km/h		Containers totalt på fartyget: 1 
+21-22.	SegelBåt	S-WAN	5664	7 km/h		Båtens längd: 33  
+23-24.	SegelBåt	S-MIP	789	15 km/h		Båtens längd: 30  
+25.	RoddBåt 	R-PDF	214	6 km/h		Maximal antal passangerare: 6 
+25,5.	RoddBåt 	R-PDF	214	6 km/h		Maximal antal passangerare: 6 
+ The boat leaving the harbor: M-MLC
+ The boat leaving the harbor: M-XSV
+ The boat leaving the harbor: M-YRT
+ The boat leaving the harbor: R-PDF
+Antalet av roddbåtar: 1
+Antalet av motorbåtar: 3
+Antalet av segelbåtar: 5
+Antalet av lastfartyg: 2
+Medelhastigheten är: 16,7 km / h
+Total vikt är: 49225 kg
 
  Boats that do not fit:
+SegelBåt med ID nummer: S-KMP
+Lastfartyg med ID nummer: L-TVK
+Motorbåt med ID nummer: M-GUK
+RoddBåt  med ID nummer: R-QAL
+RoddBåt  med ID nummer: R-QAL
